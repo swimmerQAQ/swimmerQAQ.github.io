@@ -21,7 +21,7 @@ repository               : "swimmerQAQ/swimmerQAQ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./assets/image/temp.png"
+  avatar           : "temp20240404.png"
   name             : "Shaochen Kuang"
   pronouns         : # example: "she/her"  
   bio              : "Basketball? Let's go!"
